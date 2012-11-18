@@ -8,7 +8,7 @@ Scripts:
 
 * High Quality
 A droplet script to switch the "high quality" property to enabled. 
-This is very praticle in the days of SD, when by default, quicktime movies didn't have the High Quality switch enabled.  
+This is very practical in the days of SD, when by default, quicktime movies didn't have the High Quality switch enabled.  
 	
 * Size Me Up
 A droplet script & normal script to alter dimension of the track to a hard coded preset. Will allow to batch a folder.
